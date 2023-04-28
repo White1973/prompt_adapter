@@ -58,5 +58,5 @@ CUDA_VISIBLE_DEVICES=2 python main.py --config configs/eurosat.yaml
 
 
 ## Acknowledgement
-This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [CoOp](https://github.com/KaiyangZhou/Dassl.pytorch). Thanks for their wonderful works.
+This repo benefits from [Tip-Adapter](https://github.com/gaopengcuhk/Tip-Adapter) and [CoOp](https://github.com/KaiyangZhou/CoOp). Thanks for their wonderful works.
 
